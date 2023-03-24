@@ -1,0 +1,5 @@
+###
+GET http://localhost:5001/client/customers
+
+###
+GET http://localhost:5001/client/products

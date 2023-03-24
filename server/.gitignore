@@ -1,0 +1,5 @@
+# Node modules too bulky 
+/node_modules   
+
+# Want .env stuff to remain private and secret
+.env
